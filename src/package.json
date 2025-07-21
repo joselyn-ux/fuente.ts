@@ -1,0 +1,13 @@
+{
+  "name": "pedido-app",
+  "version": "1.0.0",
+  "description": "Sistema de pedidos con TypeScript",
+  "main": "dist/pedido.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/pedido.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
